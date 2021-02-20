@@ -13,4 +13,7 @@ Girdikten Sonra Böyle Bir Kısım Gelecektir, Website'nin Hangi Dil İle Yazıl
 
 <a href="https://imgur.com/ndLm4jt"><img src="https://i.imgur.com/ndLm4jt.jpg" title="source: imgur.com" /></a>
 
-2.Adımıda Bitirdikten Sonra Websiteyi Taramaya Başlar. Bulduğu Admin Panellerini Farklı Renklerle Görebilirsiniz.
+2.Adımıda Bitirdikten Sonra Websiteyi Taramaya Başlar. Admin Paneli Bulduğu Zaman "[+] Admin Paneli Bulundu. => [Website Admin Paneli]" Yazısı Çıkar.
+
+# Copyright ©
+Kod BayLeux'a Aittir Kopyalanıp Başka Yerlerde Paylaşılması Yasaktır.
